@@ -5,7 +5,11 @@
     "image": {
       "src": "forest-waterfall.jpg",
       "alt": "A tranquil forest with a cascading waterfall amidst greenery.",
-      "webp": "forest-waterfall.webp"
+      "webp": "forest-waterfall.webp",
+      "src400": "forest-waterfall-400.jpg",
+      "src800": "forest-waterfall-800.jpg",
+      "webp400": "forest-waterfall-400.webp",
+      "webp800": "forest-waterfall-800.webp"
     },
     "lat": 44.5588,
     "lon": -80.344
@@ -16,7 +20,11 @@
     "image": {
       "src": "desert-dunes.jpg",
       "alt": "Golden dunes stretching to the horizon in the Sahara Desert.",
-      "webp": "desert-dunes.webp"
+      "webp": "desert-dunes.webp",
+      "src400": "desert-dunes-400.jpg",
+      "src800": "desert-dunes-800.jpg",
+      "webp400": "desert-dunes-400.webp",
+      "webp800": "desert-dunes-800.webp"
     },
     "lat": 25,
     "lon": 0
@@ -27,7 +35,11 @@
     "image": {
       "src": "majestic-mountains.jpg",
       "alt": "The sun setting behind snow-capped peaks of majestic mountains.",
-      "webp": "majestic-mountains.webp"
+      "webp": "majestic-mountains.webp",
+      "src400": "majestic-mountains-400.jpg",
+      "src800": "majestic-mountains-800.jpg",
+      "webp400": "majestic-mountains-400.webp",
+      "webp800": "majestic-mountains-800.webp"
     },
     "lat": 27.9881,
     "lon": 86.925
@@ -38,7 +50,11 @@
     "image": {
       "src": "caribbean-beach.jpg",
       "alt": "Pristine white sand and turquoise waters of a Caribbean beach.",
-      "webp": "caribbean-beach.webp"
+      "webp": "caribbean-beach.webp",
+      "src400": "caribbean-beach-400.jpg",
+      "src800": "caribbean-beach-800.jpg",
+      "webp400": "caribbean-beach-400.webp",
+      "webp800": "caribbean-beach-800.webp"
     },
     "lat": 18.2208,
     "lon": -66.5901
@@ -49,7 +65,11 @@
     "image": {
       "src": "ruins.jpg",
       "alt": "Historic ruins standing tall against the backdrop of the Grecian sky.",
-      "webp": "ruins.webp"
+      "webp": "ruins.webp",
+      "src400": "ruins-400.jpg",
+      "src800": "ruins-800.jpg",
+      "webp400": "ruins-400.webp",
+      "webp800": "ruins-800.webp"
     },
     "lat": 37.9715,
     "lon": 23.7257
@@ -60,7 +80,11 @@
     "image": {
       "src": "rainforest.jpg",
       "alt": "Lush canopy of a rainforest, teeming with life.",
-      "webp": "rainforest.webp"
+      "webp": "rainforest.webp",
+      "src400": "rainforest-400.jpg",
+      "src800": "rainforest-800.jpg",
+      "webp400": "rainforest-400.webp",
+      "webp800": "rainforest-800.webp"
     },
     "lat": -3.4653,
     "lon": -62.2159
@@ -71,7 +95,11 @@
     "image": {
       "src": "northern-lights.jpg",
       "alt": "Dazzling display of the Northern Lights in a starry sky.",
-      "webp": "northern-lights.webp"
+      "webp": "northern-lights.webp",
+      "src400": "northern-lights-400.jpg",
+      "src800": "northern-lights-800.jpg",
+      "webp400": "northern-lights-400.webp",
+      "webp800": "northern-lights-800.webp"
     },
     "lat": 64.9631,
     "lon": -19.0208
@@ -82,7 +110,11 @@
     "image": {
       "src": "japanese-temple.jpg",
       "alt": "Ancient Japanese temple surrounded by autumn foliage.",
-      "webp": "japanese-temple.webp"
+      "webp": "japanese-temple.webp",
+      "src400": "japanese-temple-400.jpg",
+      "src800": "japanese-temple-800.jpg",
+      "webp400": "japanese-temple-400.webp",
+      "webp800": "japanese-temple-800.webp"
     },
     "lat": 34.9949,
     "lon": 135.785
@@ -93,7 +125,11 @@
     "image": {
       "src": "great-barrier-reef.jpg",
       "alt": "Vibrant coral formations of the Great Barrier Reef underwater.",
-      "webp": "great-barrier-reef.webp"
+      "webp": "great-barrier-reef.webp",
+      "src400": "great-barrier-reef-400.jpg",
+      "src800": "great-barrier-reef-800.jpg",
+      "webp400": "great-barrier-reef-400.webp",
+      "webp800": "great-barrier-reef-800.webp"
     },
     "lat": -18.2871,
     "lon": 147.6992
@@ -104,7 +140,11 @@
     "image": {
       "src": "parisian-streets.jpg",
       "alt": "Charming streets of Paris with historic buildings and cafes.",
-      "webp": "parisian-streets.webp"
+      "webp": "parisian-streets.webp",
+      "src400": "parisian-streets-400.jpg",
+      "src800": "parisian-streets-800.jpg",
+      "webp400": "parisian-streets-400.webp",
+      "webp800": "parisian-streets-800.webp"
     },
     "lat": 48.8566,
     "lon": 2.3522
@@ -115,7 +155,11 @@
     "image": {
       "src": "grand-canyon.jpg",
       "alt": "Expansive view of the deep gorges and ridges of the Grand Canyon.",
-      "webp": "grand-canyon.webp"
+      "webp": "grand-canyon.webp",
+      "src400": "grand-canyon-400.jpg",
+      "src800": "grand-canyon-800.jpg",
+      "webp400": "grand-canyon-400.webp",
+      "webp800": "grand-canyon-800.webp"
     },
     "lat": 36.1069,
     "lon": -112.1129
@@ -126,7 +170,11 @@
     "image": {
       "src": "venetian-canals.jpg",
       "alt": "Glistening waters of the Venetian canals as gondolas glide by at sunset.",
-      "webp": "venetian-canals.webp"
+      "webp": "venetian-canals.webp",
+      "src400": "venetian-canals-400.jpg",
+      "src800": "venetian-canals-800.jpg",
+      "webp400": "venetian-canals-400.webp",
+      "webp800": "venetian-canals-800.webp"
     },
     "lat": 45.4408,
     "lon": 12.3155
@@ -137,7 +185,11 @@
     "image": {
       "src": "taj-mahal.jpg",
       "alt": "The iconic Taj Mahal reflecting in its surrounding waters during sunrise.",
-      "webp": "taj-mahal.webp"
+      "webp": "taj-mahal.webp",
+      "src400": "taj-mahal-400.jpg",
+      "src800": "taj-mahal-800.jpg",
+      "webp400": "taj-mahal-400.webp",
+      "webp800": "taj-mahal-800.webp"
     },
     "lat": 27.1751,
     "lon": 78.0421
@@ -148,7 +200,11 @@
     "image": {
       "src": "kerala-backwaters.jpg",
       "alt": "Tranquil waters and lush greenery of the Kerala backwaters.",
-      "webp": "kerala-backwaters.webp"
+      "webp": "kerala-backwaters.webp",
+      "src400": "kerala-backwaters-400.jpg",
+      "src800": "kerala-backwaters-800.jpg",
+      "webp400": "kerala-backwaters-400.webp",
+      "webp800": "kerala-backwaters-800.webp"
     },
     "lat": 9.4981,
     "lon": 76.3388
@@ -159,7 +215,11 @@
     "image": {
       "src": "african-savanna.jpg",
       "alt": "Wild animals roaming freely in the vast landscapes of the African savanna.",
-      "webp": "african-savanna.webp"
+      "webp": "african-savanna.webp",
+      "src400": "african-savanna-400.jpg",
+      "src800": "african-savanna-800.jpg",
+      "webp400": "african-savanna-400.webp",
+      "webp800": "african-savanna-800.webp"
     },
     "lat": -2.153,
     "lon": 34.6857
@@ -170,7 +230,11 @@
     "image": {
       "src": "victoria-falls.jpg",
       "alt": "The powerful cascade of Victoria Falls, a natural wonder between Zambia and Zimbabwe.",
-      "webp": "victoria-falls.webp"
+      "webp": "victoria-falls.webp",
+      "src400": "victoria-falls-400.jpg",
+      "src800": "victoria-falls-800.jpg",
+      "webp400": "victoria-falls-400.webp",
+      "webp800": "victoria-falls-800.webp"
     },
     "lat": -17.9243,
     "lon": 25.8572
@@ -181,7 +245,11 @@
     "image": {
       "src": "machu-picchu.jpg",
       "alt": "The historic Incan citadel of Machu Picchu illuminated by the morning sun.",
-      "webp": "machu-picchu.webp"
+      "webp": "machu-picchu.webp",
+      "src400": "machu-picchu-400.jpg",
+      "src800": "machu-picchu-800.jpg",
+      "webp400": "machu-picchu-400.webp",
+      "webp800": "machu-picchu-800.webp"
     },
     "lat": -13.1631,
     "lon": -72.545
@@ -192,7 +260,11 @@
     "image": {
       "src": "amazon-river.jpg",
       "alt": "Navigating the waters of the Amazon River, surrounded by dense rainforest.",
-      "webp": "amazon-river.webp"
+      "webp": "amazon-river.webp",
+      "src400": "amazon-river-400.jpg",
+      "src800": "amazon-river-800.jpg",
+      "webp400": "amazon-river-400.webp",
+      "webp800": "amazon-river-800.webp"
     },
     "lat": -3.4653,
     "lon": -58.38

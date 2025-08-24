@@ -5,7 +5,11 @@
     "image": {
       "src": "desert-dunes.jpg",
       "alt": "Golden dunes stretching to the horizon in the Sahara Desert.",
-      "webp": "desert-dunes.webp"
+      "webp": "desert-dunes.webp",
+      "src400": "desert-dunes-400.jpg",
+      "src800": "desert-dunes-800.jpg",
+      "webp400": "desert-dunes-400.webp",
+      "webp800": "desert-dunes-800.webp"
     },
     "lat": 25,
     "lon": 0
@@ -16,7 +20,11 @@
     "image": {
       "src": "forest-waterfall.jpg",
       "alt": "A tranquil forest with a cascading waterfall amidst greenery.",
-      "webp": "forest-waterfall.webp"
+      "webp": "forest-waterfall.webp",
+      "src400": "forest-waterfall-400.jpg",
+      "src800": "forest-waterfall-800.jpg",
+      "webp400": "forest-waterfall-400.webp",
+      "webp800": "forest-waterfall-800.webp"
     },
     "lat": 44.5588,
     "lon": -80.344
@@ -27,7 +35,11 @@
     "image": {
       "src": "parisian-streets.jpg",
       "alt": "Charming streets of Paris with historic buildings and cafes.",
-      "webp": "parisian-streets.webp"
+      "webp": "parisian-streets.webp",
+      "src400": "parisian-streets-400.jpg",
+      "src800": "parisian-streets-800.jpg",
+      "webp400": "parisian-streets-400.webp",
+      "webp800": "parisian-streets-800.webp"
     },
     "lat": 48.8566,
     "lon": 2.3522
@@ -38,7 +50,11 @@
     "image": {
       "src": "amazon-river.jpg",
       "alt": "Navigating the waters of the Amazon River, surrounded by dense rainforest.",
-      "webp": "amazon-river.webp"
+      "webp": "amazon-river.webp",
+      "src400": "amazon-river-400.jpg",
+      "src800": "amazon-river-800.jpg",
+      "webp400": "amazon-river-400.webp",
+      "webp800": "amazon-river-800.webp"
     },
     "lat": -3.4653,
     "lon": -58.38
@@ -49,7 +65,11 @@
     "image": {
       "src": "african-savanna.jpg",
       "alt": "Wild animals roaming freely in the vast landscapes of the African savanna.",
-      "webp": "african-savanna.webp"
+      "webp": "african-savanna.webp",
+      "src400": "african-savanna-400.jpg",
+      "src800": "african-savanna-800.jpg",
+      "webp400": "african-savanna-400.webp",
+      "webp800": "african-savanna-800.webp"
     },
     "lat": -2.153,
     "lon": 34.6857
@@ -60,7 +80,11 @@
     "image": {
       "src": "machu-picchu.jpg",
       "alt": "The historic Incan citadel of Machu Picchu illuminated by the morning sun.",
-      "webp": "machu-picchu.webp"
+      "webp": "machu-picchu.webp",
+      "src400": "machu-picchu-400.jpg",
+      "src800": "machu-picchu-800.jpg",
+      "webp400": "machu-picchu-400.webp",
+      "webp800": "machu-picchu-800.webp"
     },
     "lat": -13.1631,
     "lon": -72.545
@@ -71,7 +95,11 @@
     "image": {
       "src": "taj-mahal.jpg",
       "alt": "The iconic Taj Mahal reflecting in its surrounding waters during sunrise.",
-      "webp": "taj-mahal.webp"
+      "webp": "taj-mahal.webp",
+      "src400": "taj-mahal-400.jpg",
+      "src800": "taj-mahal-800.jpg",
+      "webp400": "taj-mahal-400.webp",
+      "webp800": "taj-mahal-800.webp"
     },
     "lat": 27.1751,
     "lon": 78.0421
@@ -82,7 +110,11 @@
     "image": {
       "src": "kerala-backwaters.jpg",
       "alt": "Tranquil waters and lush greenery of the Kerala backwaters.",
-      "webp": "kerala-backwaters.webp"
+      "webp": "kerala-backwaters.webp",
+      "src400": "kerala-backwaters-400.jpg",
+      "src800": "kerala-backwaters-800.jpg",
+      "webp400": "kerala-backwaters-400.webp",
+      "webp800": "kerala-backwaters-800.webp"
     },
     "lat": 9.4981,
     "lon": 76.3388
@@ -93,7 +125,11 @@
     "image": {
       "src": "victoria-falls.jpg",
       "alt": "The powerful cascade of Victoria Falls, a natural wonder between Zambia and Zimbabwe.",
-      "webp": "victoria-falls.webp"
+      "webp": "victoria-falls.webp",
+      "src400": "victoria-falls-400.jpg",
+      "src800": "victoria-falls-800.jpg",
+      "webp400": "victoria-falls-400.webp",
+      "webp800": "victoria-falls-800.webp"
     },
     "lat": -17.9243,
     "lon": 25.8572
